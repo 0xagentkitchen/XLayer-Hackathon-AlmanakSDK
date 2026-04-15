@@ -1,7 +1,6 @@
-# X-Layer Deterministic Strategy: Aave-Uniswap CLMM Yield Loop
+# YieldPoker: X-Layer x Almanak SDK
 
-> **X-Layer Build-X Hackathon submission** — Project #2: Deterministic DeFi
-> _Season: April 1-15, 2026_
+> Hackathon Submission for X-Layer Build-X Hackathon _Season 2 April 1-15, 2026_
 
 A production-grade **supply -> borrow -> CLMM yield** strategy that
 chains **Aave V3.6 + Uniswap V3** into a multi-protocol yield loop on
